@@ -12,15 +12,5 @@ A Python project for analysing DNA sequences stored in a CSV file using pandas.
 - Identify the longest gene
 - Export analysis results to a new CSV file
 
-## Project Structure
-
-```text
-DNA Statistics/
-│
-├── main.py
-├── genes.csv
-├── analysis_results.csv
-└── README.md
-
 ## Author
 Dora Sidiropoulou
