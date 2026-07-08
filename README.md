@@ -22,5 +22,5 @@ DNA Statistics/
 ├── analysis_results.csv
 └── README.md
 
-# Author
+## Author
 Dora Sidiropoulou
