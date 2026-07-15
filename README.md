@@ -17,16 +17,6 @@ A Python application for analyzing DNA sequences stored in CSV files using the p
 - Export analysis results to a new CSV file
 - Interactive menu for easy navigation
 
-## Project Structure
-
-text
-DNA-Statistics/
-│
-├── main.py
-├── genes.csv
-├── analysis_results.csv
-└── README.md
-
 ## Requirements
 
 - Python 3
